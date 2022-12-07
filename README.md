@@ -1,2 +1,2 @@
 # qrcode-interface
-Python interface for generating qrcodes
+Python interface for generating and reading qrcodes
